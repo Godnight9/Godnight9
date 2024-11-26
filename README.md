@@ -14,17 +14,13 @@
 <div align="center">
     <details>
         <summary><h3>✨My projects (Click to view.)</h3></summary>
-        <ul>
-            <li>Nothing here.</li>
-        </ul>
+        <p>Nothing here.</p>
     </details>
 </div>
 <div align="center">
     <details>
         <summary><h3>📋My to-do list (Click to view.)</h3></summary>
-        <ul>
-            <li>Get Graduation Certificate & Certificate of Degree.<br>⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪ 12.5%</li>
-        </ul>
+        <p>Get Graduation Certificate & Certificate of Degree<br>⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪ 12.5%</p>
     </details>
 </div>
 <div align="center">
