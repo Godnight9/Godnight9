@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=Hi%20there!👋&fontSize=70&color=0:8871e5,100:b678c4&desc=I'm%20Wayne%20Lam.&descAlign=50&descSize=30&descAlignY=70" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=Hi%20there!👋&fontSize=70&color=0:8871e5,100:b678c4&desc=I'm%20Wayne%20Lam.&descAlign=50&descSize=30&descAlignY=80" />
+    <hr>
     <h3>🙋Who am I:</h3>
     <p>A college student, and also a part-time Server O&M with over 8 years of experience. I'm aspired to be a Full-Stack software engineer and a IT professional. I love to work with software development, server management, classic versions of operating system, and retro computers.</p>
     <h3>💭My thoughts:</h3>
