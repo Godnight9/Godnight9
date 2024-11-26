@@ -15,7 +15,7 @@
     </details>
     <details>
         <summary><h3>💻My skills & Tools in use: (Click to view.)</h3></summary>
-        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,py,github,gitlab,stackoverflow,vscode,visualstudio,idea,pycharm,obsidian,vim,neovim,linux,windows,arch,apple,ps,pr&theme=dark&perline=13" />
+        <img src="https://skillicons.dev/icons?i=c,html,mysql,github,gitlab,stackoverflow,vscode,visualstudio,idea,pycharm,obsidian,vim,neovim,linux,windows,arch,apple,ps&theme=dark&perline=13" />
         <p>and more...</p>
     </details>
     <h3>✉️Contact me:</h3>
