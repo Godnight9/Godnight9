@@ -10,7 +10,7 @@
         <p>Nothing here.</p>
     </details>
     <details>
-        <summary><h3>📋My to-do list (Click to view.)</h3></summary>
+        <summary><h3>📋To-Do list (Click to view.)</h3></summary>
         <p>Get Graduation Certificate & Certificate of Degree<br>⚫⚪⚪⚪⚪⚪⚪⚪⚪⚪ 12.5%</p>
     </details>
     <details>
